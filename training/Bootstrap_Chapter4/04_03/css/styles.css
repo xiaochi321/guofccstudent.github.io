@@ -1,0 +1,6 @@
+@media(max-width: 767px) {
+	.img-responsive {
+		max-width: 60%;
+		min-width: 200px;
+	}
+}
